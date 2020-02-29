@@ -1,0 +1,64 @@
+{
+    "Work": {
+        "USDA": {
+
+        },
+        "Debate": {
+
+        },
+        "Resume": {
+
+        }
+    },
+    "Grad": {
+    },
+    "Undergrad": {
+        "Semester6": {
+            "year": 3,
+            "semester": 6,
+            "classes": {
+                "CS577": {
+                    "prof": "Christos",
+                    "dir": "",
+                    "params": {
+                        "1": "file.name.lower().endswith('_cs577')"
+                    }
+                },
+                "PS401": {
+                    "prof": "Brooks",
+                    "dir": "",
+                    "params": {
+                        "1": "file.name.lower().endswith('_ps401')"
+                    }
+                },
+                "PS373": {
+                    "prof": "Powell",
+                    "dir": "",
+                    "params": {
+                        "1": "file.name.lower().endswith('_ps373')"
+                    }
+                },
+                "MATH340": {
+                    "prof": "Arthur",
+                    "dir": "",
+                    "params": {
+                        "1": "file.name.lower().endswith('_m340')"
+                    }
+                },
+                "STAT324": {
+                    "prof": "Ears",
+                    "dir": "",
+                    "params": {
+                        "1": "file.name.lower().endswith('_s324')"
+                    }
+                }
+            }
+        },
+        "Graduation": {
+
+        },
+        "Scholarships": {
+
+        }
+    }
+}
